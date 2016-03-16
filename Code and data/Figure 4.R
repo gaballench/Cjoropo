@@ -1,10 +1,10 @@
 library(Rfit)
 
 source("datasets.R")
-source("measurements.R")
+source("analyses.R")
 
 
-png("Figure 4.png", 700, 700)
+png("Figure 4.png", width = 1500, height = 1500, pointsize = 24)
 
 split.screen(c(2, 2))
 
