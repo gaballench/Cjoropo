@@ -1,7 +1,7 @@
 Taxonomic characters
 =======================
 
-This folder contains companion images for using the key provided in Ballen et al. (20XX). These are intended to be used as infromal aids, so when their usage derives in a publication please cite the original source (For instance, those of the supraoccipital keel and cheek odontodes, were published in Ballen , 2011).
+This folder contains companion images for using the key provided in Ballen et al. (2016). These are intended to be used as infromal aids, so when their usage derives in a publication please cite the original source (For instance, those of the supraoccipital keel and cheek odontodes, were published in Ballen , 2011).
 It contains the image name, its source, and copyright information if unpublished. Please request right to use them online or for publications contacting the corresponding author (G. A. Ballen) or any of the co-auhors. No commercial use is allowed. When using any of the images contained here please point to the link where they are hosted (put link here) as well as the published source if already published (see references below).
 
 * Supraoccipital keel (Present above, absent below).png (Ballen, 2011).
