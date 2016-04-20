@@ -20,5 +20,5 @@ Photographs in preservative (dorsal view) are provided below in order to further
 References
 ====================
 
-* Ballen, G.A. 2011. A new species of Chaetostoma Tschudi (Siluriformes: Loricariidae) from Colombia with a definition of the C. anale species group. Papéis Avulsos de Zoologia 51(26):383-398.
-* Ballen, G.A., A. Urbano-Bonilla & J.A. Maldonado-Ocampo. 20XX. Description of a new species of the genus Chaetostoma from the Orinoco drainage with comments on Chaetostoma milesi Fowler (Siluriformes: Loricariidae). Zootaxa VV(N):pp-pp.
+* Ballen, G.A. 2011. A new species of *Chaetostoma* Tschudi (Siluriformes: Loricariidae) from Colombia with a definition of the *C. anale* species group. Papéis Avulsos de Zoologia 51(26):383-398.
+* Ballen, G.A., A. Urbano-Bonilla & J.A. Maldonado-Ocampo. 2016. Description of a new species of the genus Chaetostoma from the Orinoco drainage with comments on Chaetostoma milesi Fowler (Siluriformes: Loricariidae). Zootaxa 4105(2):181-197.
